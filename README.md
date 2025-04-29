@@ -8,9 +8,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/siddddhhuu/profilecard/?igsh=MWtpdGI2ZzRvNXNybw==) [![LinkedIn](www.linkedin.com/in/siddhesh-jadhav-51a521172)](https://linkedin.com/in/maqbools) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshjadhav60@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/siddddhhuu/profilecard/?igsh=MWtpdGI2ZzRvNXNybw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/siddhesh-jadhav-51a521172) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshjadhav60@gmail.com) 
 
-# 💻 Tech Stack:
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
