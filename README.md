@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack projects, Web3 dApps, and blockchain-based applications as a student.<br>
+🔭 I’m currently working on MERN stack projects, Web3 dApps, and blockchain-based applications.<br>
 👯 I’m looking to collaborate on innovative Web3 solutions, smart contracts, and full-stack blockchain projects, while seeking opportunities in the Web3 and blockchain domain.<br>
 🤝 I can help with any MERN stack development, smart contract integration, and Web3 frontend/backend challenges as I’m learning and growing in this exciting field.<br>
 🌱 I’m currently learning advanced smart contract development, decentralized storage solutions, and scaling techniques for dApps.<br>
